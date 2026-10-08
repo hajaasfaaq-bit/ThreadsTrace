@@ -1,0 +1,20 @@
+{
+  "name": "threadtrace-ai-security",
+  "version": "1.0.0",
+  "description": "ThreadTrace — AI Email Thread Forensics & Expected Mail Alarm SaaS Platform",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -l 8080",
+    "dev": "npx serve . -l 3000",
+    "build": "echo 'Static web application ready for deployment'"
+  },
+  "keywords": [
+    "cybersecurity",
+    "ai",
+    "email-forensics",
+    "bec-detection",
+    "threadtrace"
+  ],
+  "author": "ThreadTrace SecOps Team",
+  "license": "MIT"
+}
